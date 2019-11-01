@@ -1,0 +1,99 @@
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/bin/Debug/netcoreapp3.0/v1
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/bin/Debug/netcoreapp3.0/v1.deps.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/bin/Debug/netcoreapp3.0/v1.runtimeconfig.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/bin/Debug/netcoreapp3.0/v1.runtimeconfig.dev.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/bin/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/bin/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/obj/Debug/netcoreapp3.0/v1.csprojAssemblyReference.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/obj/Debug/netcoreapp3.0/v1.AssemblyInfoInputs.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/obj/Debug/netcoreapp3.0/v1.AssemblyInfo.cs
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/obj/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1/obj/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/bin/Debug/netcoreapp3.0/v1
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/bin/Debug/netcoreapp3.0/v1.deps.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/bin/Debug/netcoreapp3.0/v1.runtimeconfig.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/bin/Debug/netcoreapp3.0/v1.runtimeconfig.dev.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/bin/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/bin/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/obj/Debug/netcoreapp3.0/v1.csprojAssemblyReference.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/obj/Debug/netcoreapp3.0/v1.AssemblyInfoInputs.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/obj/Debug/netcoreapp3.0/v1.AssemblyInfo.cs
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/obj/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v1.1/obj/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/bin/Debug/netcoreapp3.0/v1
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/bin/Debug/netcoreapp3.0/v1.deps.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/bin/Debug/netcoreapp3.0/v1.runtimeconfig.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/bin/Debug/netcoreapp3.0/v1.runtimeconfig.dev.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/bin/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/bin/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/obj/Debug/netcoreapp3.0/v1.csprojAssemblyReference.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/obj/Debug/netcoreapp3.0/v1.AssemblyInfoInputs.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/obj/Debug/netcoreapp3.0/v1.AssemblyInfo.cs
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/obj/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2/obj/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/bin/Debug/netcoreapp3.0/v1
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/bin/Debug/netcoreapp3.0/v1.deps.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/bin/Debug/netcoreapp3.0/v1.runtimeconfig.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/bin/Debug/netcoreapp3.0/v1.runtimeconfig.dev.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/bin/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/bin/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/obj/Debug/netcoreapp3.0/v1.csprojAssemblyReference.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/obj/Debug/netcoreapp3.0/v1.AssemblyInfoInputs.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/obj/Debug/netcoreapp3.0/v1.AssemblyInfo.cs
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/obj/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.1/obj/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/bin/Debug/netcoreapp3.0/v1
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/bin/Debug/netcoreapp3.0/v1.deps.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/bin/Debug/netcoreapp3.0/v1.runtimeconfig.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/bin/Debug/netcoreapp3.0/v1.runtimeconfig.dev.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/bin/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/bin/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/obj/Debug/netcoreapp3.0/v1.csprojAssemblyReference.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/obj/Debug/netcoreapp3.0/v1.AssemblyInfoInputs.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/obj/Debug/netcoreapp3.0/v1.AssemblyInfo.cs
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/obj/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.2/obj/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/bin/Debug/netcoreapp3.0/v1
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/bin/Debug/netcoreapp3.0/v1.deps.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/bin/Debug/netcoreapp3.0/v1.runtimeconfig.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/bin/Debug/netcoreapp3.0/v1.runtimeconfig.dev.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/bin/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/bin/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/obj/Debug/netcoreapp3.0/v1.csprojAssemblyReference.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/obj/Debug/netcoreapp3.0/v1.AssemblyInfoInputs.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/obj/Debug/netcoreapp3.0/v1.AssemblyInfo.cs
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/obj/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/v2.3/obj/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/bin/Debug/netcoreapp3.0/v1
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/bin/Debug/netcoreapp3.0/v1.deps.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/bin/Debug/netcoreapp3.0/v1.runtimeconfig.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/bin/Debug/netcoreapp3.0/v1.runtimeconfig.dev.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/bin/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/bin/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/obj/Debug/netcoreapp3.0/v1.csprojAssemblyReference.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/obj/Debug/netcoreapp3.0/v1.AssemblyInfoInputs.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/obj/Debug/netcoreapp3.0/v1.AssemblyInfo.cs
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/obj/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version 2/v2.4/obj/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/bin/Debug/netcoreapp3.0/v1
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/bin/Debug/netcoreapp3.0/v1.deps.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/bin/Debug/netcoreapp3.0/v1.runtimeconfig.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/bin/Debug/netcoreapp3.0/v1.runtimeconfig.dev.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/bin/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/bin/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/obj/Debug/netcoreapp3.0/v1.csprojAssemblyReference.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/obj/Debug/netcoreapp3.0/v1.AssemblyInfoInputs.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/obj/Debug/netcoreapp3.0/v1.AssemblyInfo.cs
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/obj/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.1/obj/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/bin/Debug/netcoreapp3.0/v1
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/bin/Debug/netcoreapp3.0/v1.deps.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/bin/Debug/netcoreapp3.0/v1.runtimeconfig.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/bin/Debug/netcoreapp3.0/v1.runtimeconfig.dev.json
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/bin/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/bin/Debug/netcoreapp3.0/v1.pdb
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/obj/Debug/netcoreapp3.0/v1.csprojAssemblyReference.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/obj/Debug/netcoreapp3.0/v1.AssemblyInfoInputs.cache
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/obj/Debug/netcoreapp3.0/v1.AssemblyInfo.cs
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/obj/Debug/netcoreapp3.0/v1.dll
+/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/obj/Debug/netcoreapp3.0/v1.pdb
