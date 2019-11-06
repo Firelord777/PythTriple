@@ -29,8 +29,9 @@ namespace PythTriplev21
             string logMode = "a";
             int logFileCount = 0;
 
-            // Alles für die Statsdatei.
-            const int statsCount = 7;
+            // Alles für den weiterModus.
+            const int statsCount = 2;
+            const int varCount = 7;
             int i = 0;
 
             // Dateipfade
@@ -51,19 +52,28 @@ namespace PythTriplev21
                 // Stats Datei wird ausgelesen und die einzelnen Variablen geladen.
                 using (System.IO.StreamReader stats = new System.IO.StreamReader(statsPath)){
                     while (i < statsCount){
-                        switch(i){
-                            
-                            case 0: mode = stats.ReadLine(); break;
-                            case 1: logMode = stats.ReadLine(); break;
-                            case 2: maxTriple = Convert.ToInt32(stats.ReadLine()); break;
-                            case 3: toPrint = Convert.ToInt32(stats.ReadLine()); break;
-                            case 4: toLog = Convert.ToInt32(stats.ReadLine()); break;
-                            case 5: u = Convert.ToInt32(stats.ReadLine()); break;
-                            case 6: logPath = stats.ReadLine(); break;
-                            default: break;
+                        switch(i){                            
+                            case 0: u = Convert.ToInt32(stats.ReadLine()); break;
+                            case 1: tripleCount = Convert.ToInt32(stats.ReadLine()); break;
                         }
                         i ++;
                     }    
+                }
+                i = 0;
+
+                using (System.IO.StreamReader var = new System.IO.StreamReader(varPath)){
+                    while(i < varCount){
+                        switch(i){
+                            case 0: logFileCount = Convert.ToInt32(var.ReadLine()); break;
+                            case 1: mode = var.ReadLine(); break;
+                            case 2: maxTriple = Convert.ToInt32(var.ReadLine()); break;
+                            case 3: sleepTime = Convert.ToInt32(var.ReadLine()); break;
+                            case 4: logMode = var.ReadLine(); break;
+                            case 5: logPath = var.ReadLine(); break;
+                            case 6: toLog = Convert.ToInt32(var.ReadLine()); break;
+                        }
+                        i ++;
+                    }
                 }
             }
             else{
@@ -93,19 +103,16 @@ namespace PythTriplev21
                 }
 
                 // Die Logdatei wird geladen oder erstellt.
+
+                if (System.IO.File.Exists(varPath)){
+                    using (System.IO.StreamReader log = new System.IO.StreamReader(varPath)){
+                        logFileCount = Convert.ToInt32(log.ReadLine());
+                    }
+                }
+
                 if (logMode.StartsWith("k") || logMode.StartsWith("s")){
-                    if (System.IO.File.Exists(varPath)){
-                        using (System.IO.StreamReader log = new System.IO.StreamReader(varPath)){
-                            logFileCount = Convert.ToInt32(log.ReadLine());
-                        }
-                        logFileCount ++;
-                    }
-
+                    logFileCount ++;
                     logPath = logPath + "log" + logFileCount +".txt";
-
-                    using (System.IO.StreamWriter var = new System.IO.StreamWriter(varPath)){
-                        var.WriteLine(logFileCount);
-                    }
 
                 }
                 else{
@@ -115,7 +122,17 @@ namespace PythTriplev21
                 }
 
             }         
-            
+
+            using (System.IO.StreamWriter var = new System.IO.StreamWriter(varPath)){
+                var.WriteLine(logFileCount);
+                var.WriteLine(mode);
+                var.WriteLine(maxTriple);
+                var.WriteLine(sleepTime);
+                var.WriteLine(logMode);
+                var.WriteLine(logPath);
+                var.WriteLine(toLog);
+            }
+
             // Der StreamWriter für die Logdatei wird erstellt.
             using (System.IO.StreamWriter log = new System.IO.StreamWriter(logPath, true))
 
@@ -188,15 +205,8 @@ namespace PythTriplev21
                 using (System.IO.StreamWriter stats = new System.IO.StreamWriter(statsPath)){
 
                     //Wenn weitere stats hinzugefügt werden Statscount updaten!
-
-                    stats.WriteLine(mode);
-                    stats.WriteLine(logMode);
-                    stats.WriteLine(maxTriple);
-                    stats.WriteLine(toPrint);
-                    stats.WriteLine(toLog);
                     stats.WriteLine(u);
-                    stats.WriteLine(logPath);
-                
+                    stats.WriteLine(tripleCount);                
                 }
             }
 

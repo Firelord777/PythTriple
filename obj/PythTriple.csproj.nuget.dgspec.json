@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/PythTriple.csproj": {}
+    "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.3/PythTriple.csproj": {}
   },
   "projects": {
-    "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/PythTriple.csproj": {
+    "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.3/PythTriple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/PythTriple.csproj",
+        "projectUniqueName": "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.3/PythTriple.csproj",
         "projectName": "PythTriple",
-        "projectPath": "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/PythTriple.csproj",
+        "projectPath": "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.3/PythTriple.csproj",
         "packagesPath": "/home/moritz/.nuget/packages/",
-        "outputPath": "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.2/obj/",
+        "outputPath": "/media/moritz/Arbeiten/Lernen/Programmieren/CSharp/PythTriple/Version2/v2.4.3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/moritz/.nuget/NuGet/NuGet.Config"
